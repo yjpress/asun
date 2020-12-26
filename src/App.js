@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>asun- 2020-12-10</p>
+        <p>asun- 2020-12-10 and start react</p>
       </header>
     </div>
   );
